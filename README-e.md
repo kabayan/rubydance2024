@@ -1,6 +1,8 @@
 # Wow! technical background
 Documentation on the creation of this video.
 
+- https://www.youtube.com/watch?v=vxlv1rSnaO8
+
 ## Intent
 - To see if it is possible to generate a critique of a work of art, rather than using it to create a work of art.
 - The premise is that if the critique can be freely made by anyone who has viewed the work, it should not infringe on the artist's rights if it is made by a generative AI.
